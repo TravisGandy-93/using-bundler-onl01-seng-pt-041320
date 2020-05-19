@@ -9,6 +9,6 @@ group :development do
 gem "pry"
 end
 
-group  do
+group :test do
 
 end
